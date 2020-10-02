@@ -1,5 +1,5 @@
-# smart-brain App
-Full stack JavaScript App, done with React.js, Node.js, PostgreSQL, using Clarify API and deployed on Heroku.
+# Smart Brain App
+A very cool Full stack JavaScript App, done with React.js, Node.js, PostgreSQL, using Clarify API and deployed on Heroku.
 
 
 
