@@ -10,3 +10,6 @@ Features:
 
 - Face recognition: Once the profile is displayed, the user can enter the url of an image. If the image contains human faces, the user entries are incremented by the number of the recognized faces. In case the url is not valid, an error message is displayed. Face detection is done using Clarifai API.
 
+
+
+![img_1](https://user-images.githubusercontent.com/69579639/94895392-dde18e00-047a-11eb-8c05-5b683340284f.png)
